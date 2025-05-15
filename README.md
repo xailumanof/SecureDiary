@@ -38,3 +38,6 @@ Salts to protect against rainbow table attacks
 **License**
 This project is distributed under the MIT license. 
 
+**Download**
+
+https://www.dropbox.com/scl/fi/2cgmpapzrnki4utdzkwk0/SecureDiary.exe?rlkey=uqec17492rjy55b7iqxl8d979&st=ucdzzytg&dl=1
