@@ -14,13 +14,13 @@ Main functions
 📤 Export records to a text file
 🚨 Emergency delete function for all data
 
-#First launch
+**First launch**
 When you first launch the program:
 Will ask you to select a folder to store data
 Will ask you for the OpenWeatherMap API key (can be skipped)
 Will ask you to create a password to access the diary
 
-#Usage
+**Usage**
 Main elements interface:
 New entry - create a new diary entry
 All entries - view, search and filter existing entries
@@ -29,12 +29,12 @@ Hot keys:
 Ctrl+V - paste image from clipboard
 Esc - close full-screen image view
 
-#Security
+**Security**
 All data is stored encrypted using:
 Scrypt algorithm for generating a key from a password
 AES-128 encryption via Fernet
 Salts to protect against rainbow table attacks
 
-#License
+**License**
 This project is distributed under the MIT license. 
 
